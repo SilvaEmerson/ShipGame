@@ -141,8 +141,3 @@ while True:
     time_passed = clock.tick(30)
     
     remove_used_asteroids()
-    
-#     basicFont = pygame.font.SysFont(None,48)
-#     WHITE = (255,255,255)
-#     BLUE = (0,0,255)
-#     text = basicFont.render("Hello", True, WHITE, BLUE)
